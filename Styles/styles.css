@@ -1,0 +1,54 @@
+body, HTML {
+    height: 100%;
+    margin: 0;
+}
+
+.border{
+    color: white;  
+    font-family: 'Laila', serif;
+    font-size: 32px;
+}
+
+#introtext {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 35%;
+    width: 120%;
+    text-align: center;
+    overflow: hidden;
+}
+
+#introtext span.border {
+    background-color: #3D9970;
+    opacity: .85;
+    color: #fff;
+    padding: 0px 5px ;
+    font-size: 25px;
+    letter-spacing: 10px;
+  }
+
+#titlebox {
+    background-image: url("/Images/IMG_0164.JPG");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#socialinfo {
+    text-align: center;
+    font-family: 'Laila', serif;
+    color: #3D9970;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#github, #instagram, #twitter, #linkedin {
+    display: inline-block;
+    padding: 30px;
+}
