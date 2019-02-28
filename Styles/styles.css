@@ -12,10 +12,9 @@ body, HTML {
 
 #introtext {
     position: absolute;
-    left: 0;
     right: 0;
     top: 35%;
-    width: 120%;
+    width: 85%;
     text-align: center;
     overflow: hidden;
 }
