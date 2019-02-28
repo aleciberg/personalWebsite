@@ -52,3 +52,22 @@ body, HTML {
     display: inline-block;
     padding: 30px;
 }
+
+#doingnow {
+    text-align: center;
+    font-family: 'Laila', serif;
+    color: #00ADEE;
+}
+
+#techelevator {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+#teblurb {
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    padding-right: 20px;
+}
