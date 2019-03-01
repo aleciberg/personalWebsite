@@ -13,14 +13,14 @@ body, HTML {
 #introtext {
     position: absolute;
     right: 0;
-    top: 35%;
-    width: 85%;
+    top: 45%;
+    width: 115%;
     text-align: center;
     overflow: hidden;
 }
 
 #introtext span.border {
-    background-color: #3D9970;
+    background-color: seagreen;
     opacity: .85;
     color: #fff;
     padding: 0px 5px ;
@@ -29,7 +29,7 @@ body, HTML {
   }
 
 #titlebox {
-    background-image: url("../Images/IMG_0164.JPG");
+    background-image: url("../Images/IMG_2222.JPG");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body, HTML {
 #socialinfo {
     text-align: center;
     font-family: 'Laila', serif;
-    color: #3D9970;
+    color: forestgreen;
 }
 
 .icons {
@@ -56,7 +56,7 @@ body, HTML {
 #doingnow {
     text-align: center;
     font-family: 'Laila', serif;
-    color: #00ADEE;
+    color: forestgreen;
 }
 
 #techelevator {
