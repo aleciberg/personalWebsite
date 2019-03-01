@@ -29,7 +29,7 @@ body, HTML {
   }
 
 #titlebox {
-    background-image: url("../Images/IMG_2222.JPG");
+    background-image: url("/../Images/IMG_2222.JPG");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -70,4 +70,9 @@ body, HTML {
     height: 200px;
     width: 300px;
     padding-right: 20px;
+}
+
+.totalskills {
+    width: 60%;
+    margin: auto;
 }
