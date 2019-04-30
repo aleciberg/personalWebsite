@@ -71,3 +71,10 @@ body, HTML {
     width: 300px;
     padding-right: 20px;
 }
+
+#Oblurb {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    padding-right: 20px;
+}
