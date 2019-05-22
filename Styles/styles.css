@@ -36,6 +36,12 @@ body, HTML {
     background-size: cover;
 }
 
+@media screen and (max-width: 1125px) {
+    #titlebox {
+        background-image: url(IMG_2222_small.jp2);
+    }
+  }
+
 #socialinfo {
     text-align: center;
     font-family: 'Laila', serif;
