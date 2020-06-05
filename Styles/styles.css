@@ -29,26 +29,6 @@ body, HTML {
     letter-spacing: 10px;
   }
 
-  #clockcontainer {
-      position: absolute;
-      top: 90%;
-      left: 2%;
-      letter-spacing: 3px;
-  }
-
-#clockcontainer > div > span {
-    background-color: seagreen;
-    opacity: .90;
-    color: #fff;
-    font-size: 25px;
-}
-
-#clockcontainer > #hr, #min, #sec, #colon {
-    padding: 0px;
-    margin: 0px;
-    letter-spacing: 2px;
-}
-
 #titlebox {
     background-image: url(IMG_2222.jp2);
     height: 100%;
